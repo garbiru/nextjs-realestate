@@ -1,6 +1,6 @@
 # Real Estate App
 
-This project was recreated following a tutorial on youtube 👇<br />.
+This project was recreated following a tutorial on youtube 👇<br />
 https://www.youtube.com/watch?v=GDa8kZLNhJ4&ab_channel=JavaScriptMastery
 
 <img src="https://cdn.discordapp.com/attachments/1003049455181910017/1005489851837194280/unknown.png" />
